@@ -27,7 +27,7 @@ sl                  split right windows
 <leader>v           vista            
 ------------------------------------------
 <leader>lv          show graphviz        
-<leader>nt			NERDTreeToggle
+<leader><leader>nt			NERDTreeToggle
 <leader>tm			open table mode      
 ------------------------------------------
 <leader><leader>a	Find assignments to this symbol
